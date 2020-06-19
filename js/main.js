@@ -1,3 +1,3 @@
-let Paragraf = document.querySelector('p');
+let myHeading = document.querySelector('p');
 
-Paragraf.innerText = 'JavaScript'
+myHeading.textContent = 'Akademia 108';
